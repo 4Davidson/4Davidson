@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4Davidson
 - 👀 I’m interested in male and female Programmers and Web developers
-- 🌱 I’m currently learning C++, HTML, CSS,PHP and PYTHON
+- 🌱 I’m currently learning C++, HTML, CSS,JavaScript,PHP and PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
