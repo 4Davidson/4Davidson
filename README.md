@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @4Davidson
+- 👋 Hi, I’m Sikiru
 - 👀 I’m interested in male and female Programmers and Web developers
 - 🌱 I’m currently learning C++, HTML, CSS,JavaScript,PHP and PYTHON
 - 💞️ I’m looking to collaborate on ...
